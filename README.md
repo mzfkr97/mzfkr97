@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Kotlin, Java, Android 
+-  ⚡  Android dev
 
 <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="32"> [Github pages](https://mzfkr97.github.io)
 
