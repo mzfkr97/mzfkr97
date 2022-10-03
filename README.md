@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-⚡  Android dev
+`Welcome to my github`
 
-<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="32"> [Github pages](https://mzfkr97.github.io)
+| Icon       | Url       |
+|:-------------|:------------------|
+| <img src="google_play.png" width="32">  | [Play Store](https://play.google.com/store/apps/details?id=com.slutsk.roman.slutsktransp)  
+| <img src="linkedIn_logo.png" width="24">     | [Linkedin](https://www.linkedin.com/in/roman-zhurid/)   
+| <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="32">  | [Github pages](https://mzfkr97.github.io) 
 
-<img src="google_play.png" width="32"> [Play Store](https://play.google.com/store/apps/details?id=com.slutsk.roman.slutsktransp)
 
-<img src="linkedIn_logo.png" width="32"> [Linkedin](https://www.linkedin.com/in/roman-zhurid/)
+
 <!--
 **mzfkr97/mzfkr97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
