@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Kotlin, Java, Android 
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)[Welcome to my github pages](https://mzfkr97.github.io)
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="32"> [Github pages](https://mzfkr97.github.io)
 
 <img src="google_play.png" width="32"> [Play Store](https://play.google.com/store/apps/details?id=com.slutsk.roman.slutsktransp)
 
