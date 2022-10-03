@@ -6,7 +6,7 @@
 
 <img src="google_play.png" width="32"> [Play Store](https://play.google.com/store/apps/details?id=com.slutsk.roman.slutsktransp)
 
-<img src="LinkedIn-Blue-40@2x.png" width="32"> [Linkedin](https://www.linkedin.com/in/roman-zhurid/)
+<img src="linkedIn_logo.png" width="32"> [Linkedin](https://www.linkedin.com/in/roman-zhurid/)
 <!--
 **mzfkr97/mzfkr97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
