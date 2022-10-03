@@ -6,6 +6,7 @@
 
 !🔭 (https://github.com/mzfkr97/mzfkr97/main/43-439847_google-play-arrow-png-logo-logo-google-play.png)
 
+![Screenshot](43-439847_google-play-arrow-png-logo-logo-google-play.png)
 [Get my application](https://play.google.com/store/apps/details?id=com.slutsk.roman.slutsktransp).
 
 <!--
