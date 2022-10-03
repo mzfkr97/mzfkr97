@@ -4,9 +4,8 @@
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)[Welcome to my github pages](https://mzfkr97.github.io)
 
-![Screenshot](43-439847_google-play-arrow-png-logo-logo-google-play.png)
-[Get my application](https://play.google.com/store/apps/details?id=com.slutsk.roman.slutsktransp).
-<img src="43-439847_google-play-arrow-png-logo-logo-google-play.png" width="128"/>
+<img src="43-439847_google-play-arrow-png-logo-logo-google-play.png" width="64"/> [Get my application](https://play.google.com/store/apps/details?id=com.slutsk.roman.slutsktransp).
+
 <!--
 **mzfkr97/mzfkr97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
