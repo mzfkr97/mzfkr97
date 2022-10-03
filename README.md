@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Kotlin, Java, Android 
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)[Welcome my github pages](https://mzfkr97.github.io).
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)[Welcome to my github pages](https://mzfkr97.github.io).
 
 <!--
 **mzfkr97/mzfkr97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
