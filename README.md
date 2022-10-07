@@ -2,7 +2,7 @@
 
 `Welcome to my github`
 
-| Icon       | Url       |
+|||
 |:-------------|:------------------|
 | <img src="google_play.png" width="32">  | [Play Store](https://play.google.com/store/apps/details?id=com.slutsk.roman.slutsktransp)  
 | <img src="linkedIn_logo.png" width="24">     | [Linkedin](https://www.linkedin.com/in/roman-zhurid/)   
